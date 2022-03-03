@@ -63,11 +63,8 @@ See Gifs below to understand flow of App !
 
 <a href="https://drive.google.com/open?id=1xOUxLUPaPIjDlRJ__JNfHPhMbICeqZ_b">Download APK</a>
 
-- Demo Login Credentials : login: demouser@gmail.com / Pass- qwerty
 
 ### There is one more Admin App for the same to upload and add products with ease and hassle free, so that you dont have to manually insert them in database. If required head over to my blog and subscribe, we'll mail you the source code immediately.
-
-<a href="https://mytrashcode.com/subscribe/"><img src="https://www.bitcomet.com/images/download_en.png"></a>
 
 ## Download and Test Magic Print Dashboard Apk
 
@@ -81,12 +78,12 @@ I have attached php files as well as SQL dB Schema how you should create it. :) 
 ## Make it Work with Firebase
 
  - Activate firebase database service and set rules as 
-{
+`{
   "rules": {
     ".read": true,
     ".write": true
   }
-}
+}`
 
  - Then import the below attached JSON files to get some dummy data backup
 [JSON backup file]
@@ -131,11 +128,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
-### Target Audience Searches - 
- - e commerce android app source code free download
- - online shopping android app source code
- - ecommerce android app
- - e commerce android app template
- - android shopping cart source code download	
- - android shopping app source code free download
- - open source android ecommerce app
